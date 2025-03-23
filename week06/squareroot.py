@@ -7,19 +7,20 @@ approximation of its square root.
 
 def sqrt(n):
     """
-    Function to calculate square root of a number using Newton's method
+    Function to calculate square root of a number using Newton's method.
     """
 
     """
-    We initialize the variable "approx" as our first estimate of the sqaure root,
-    starting with the value of n divided by 2
+    We initialize the variable "approx" as our first estimate of the square root,
+    starting with the value of n divided by 2.0.
     """
     
-    approx = float(n)/2.0
+    approx = float(n)/2.0 # "float(n)"" used to replace string "n" with floating-point number "n"
 
     """
     We then calculate a better estimate "better_approx", using Newton's method. 
-    This is the average of approx and n/approx.
+    This is the average of approx and n/approx. 
+    Source: https://math.mit.edu/~stevenj/18.335/newton-sqrt.pdf
     """
 
     better_approx = (approx + float(n)/approx)/2.0
@@ -35,7 +36,8 @@ def sqrt(n):
         better_approx = (approx + float(n)/approx)/2.0
 
     """Once we're done improving our estimate, we return it as the result. 
-    This is our estimated value of the square root of n."""
+    This is our estimated value of the square root of n.
+    """
 
     return approx
 
