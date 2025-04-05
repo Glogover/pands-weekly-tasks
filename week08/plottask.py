@@ -14,7 +14,7 @@ import seaborn as sns # seaborn: a library for creating beautiful and informativ
 import matplotlib.pyplot as plt # matplotlib.pyplot: a library for creating visualizations in Python
 import numpy as np # numpy: a package for handling mathematics and multidimensional arrays
 import pandas as pd # pandas: a data analysis and manipulation package
-from scipy.stats import norm
+from scipy.stats import norm # scipy.stats.norm: allows you to generate data according to a normal distribution
 
 # Create a sample from a normal distribution
 mu, sigma = 5, 2  # mean and standard deviation
