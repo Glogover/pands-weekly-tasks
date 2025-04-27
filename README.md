@@ -1,6 +1,7 @@
 # pands-weekly-tasks
 
-**Weekly Python Tasks** completed as part of the *Programming and Scripting* module.  
+**Weekly Python Tasks** completed by Marcin Kaminski as part of the *Programming and Scripting* module.  
+
 This project contains scripts and exercises designed to practice key Python programming concepts, data handling, and visualization techniques.
 
 ---
@@ -40,7 +41,7 @@ Code is organized by week, and each task typically includes:
 
 # 📖 External References
 
-This project heavily relied on the following excellent resources:
+This project heavily relied on the following resources:
 
 | Ref | Topic | Link |
 |:---:|:------|:-----|
