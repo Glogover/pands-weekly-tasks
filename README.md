@@ -1,7 +1,7 @@
 # pands-weekly-tasks
 
 **Weekly Python Tasks** completed as part of the *Programming and Scripting* module.  
-This project contains small programs and exercises designed to practice key Python programming concepts, data handling, and visualization techniques.
+This project contains scripts and exercises designed to practice key Python programming concepts, data handling, and visualization techniques.
 
 ---
 
@@ -20,7 +20,7 @@ Each weekly task focuses on developing different programming skills, including:
 Code is organized by week, and each task typically includes:
 
 - A Python script
-- A description of the problem
+- A description of the script/program
 - Comments and explanations
 
 ---
@@ -28,7 +28,7 @@ Code is organized by week, and each task typically includes:
 ## 🛠️ Getting Started
 
 ### Requirements
-- Python 3.10+ (or latest)
+- Python 3.12 (or latest)
 - Recommended libraries:
   - `numpy`
   - `pandas`
@@ -36,7 +36,7 @@ Code is organized by week, and each task typically includes:
   - `seaborn`
   - `scipy`
 
-  
+
 
 # 📖 External References
 
